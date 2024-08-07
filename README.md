@@ -22,3 +22,5 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+-> 36/40 Falta controlar el v-if para el manejo de mensajes
